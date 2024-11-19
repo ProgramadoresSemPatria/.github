@@ -2,9 +2,9 @@
 
 
 
-🙋🏾 Introdução - Github Colaborativo de todos os programadores sem pátria!
+🙋🏾 Introdução - Github Colaborativo do Ecossistema da Borderless Coding
 
-💡 Aqui vamos compartilhar idéias de projetos de acordo com os níveis(0,1,2,3). 
+💡 Libraries, SaaS, Open-Source e muito mais aqui dentro!
 
 🍀 Quanto mais eu trabalho, mais sorte eu tenho.
 
